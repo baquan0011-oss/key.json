@@ -1,15 +1,15 @@
 {
-  "valid_key": [
+  "keys": [
     {
       "key": "BRUTAL-ABCD-EFGH-IJKL",
       "expires": "2024-12-31",
       "device": "PC-Gaming"
     },
     {
-      "key": "TEST-KEY-1234-5678",
+      "key": "TEST-KEY-1234",
       "expires": "2024-06-30",
       "device": "Mobile"
-    },
+    }
     "ZINO-JDHE"
   ]
 }
