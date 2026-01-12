@@ -1,7 +1,14 @@
 {
   "valid_key": [
-    "BRUTAL-ABCD-EFGH-IJKL",
-    "TEST-KEY-1234-5678",
-    "VIP-USER-2024"
+    {
+      "key": "BRUTAL-ABCD-EFGH-IJKL",
+      "expires": "2024-12-31",
+      "device": "PC-Gaming"
+    },
+    {
+      "key": "TEST-KEY-1234-5678",
+      "expires": "2024-06-30",
+      "device": "Mobile"
+    }
   ]
 }
